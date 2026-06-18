@@ -2,15 +2,15 @@
 # MAGIC %md
 # MAGIC # Arquitetura Medallion
 # MAGIC
-# MAGIC ### Vamos criar os banco de dados (schemas) para cada camada da estrutura medallion: 
+# MAGIC  Vamos criar os banco de dados (schemas) para cada camada da estrutura medallion: 
 # MAGIC
-# MAGIC ## **Bronze** -> **Silver** -> **Gold** -> **Analytics**. 
+# MAGIC  **Bronze** -> **Silver** -> **Gold** -> **Analytics**. 
 # MAGIC
-# MAGIC ### Onde:
+# MAGIC  Onde:
 # MAGIC
-# MAGIC ### **Bronze**: ingestão de dados brutos.
-# MAGIC ### **Silver**: limpeza, tratamento e padronização.
-# MAGIC ### **Gold**: tabelas analíticas e métricas.
+# MAGIC  **Bronze**: ingestão de dados brutos.
+# MAGIC  **Silver**: limpeza, tratamento e padronização.
+# MAGIC  **Gold**: tabelas analíticas e métricas.
 
 # COMMAND ----------
 
